@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/weather_wallpaper"
+    android:layout_height="175dp"
+    android:gravity="bottom"
+     android:padding="15dp"
+    >
+
+    <ImageView
+        android:layout_width="87dp"
+        android:layout_height="70dp"
+        android:src="@drawable/profile" />
+
+    <TextView
+        android:layout_width="84dp"
+        android:layout_height="16dp"
+        android:text="     Abishek"
+        android:textColor="@color/white" />
+
+</LinearLayout>
